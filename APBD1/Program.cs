@@ -27,3 +27,8 @@ double average = CalculateAverage(numbers);
 Console.WriteLine(average);
 
 Console.WriteLine("Zmiana do rebase'u");
+
+static int FindMax(int[] numbers)
+{
+    return numbers.Max();
+}
