@@ -32,3 +32,5 @@ static int FindMax(int[] numbers)
 {
     return numbers.Max();
 }
+
+Console.WriteLine(FindMax(numbers));
