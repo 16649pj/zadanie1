@@ -25,3 +25,5 @@ static double CalculateAverage(int[] numbers)
 int[] numbers = { 10, 20, 30, 40, 50 };
 double average = CalculateAverage(numbers);
 Console.WriteLine(average);
+
+Console.WriteLine("Zmiana do rebase'u");
