@@ -1,0 +1,15 @@
+C:\Users\Jarek\Desktop\PJATK\APBD\prace domowe\zadanie1\APBD1\bin\Debug\net8.0\APBD1.exe
+C:\Users\Jarek\Desktop\PJATK\APBD\prace domowe\zadanie1\APBD1\bin\Debug\net8.0\APBD1.deps.json
+C:\Users\Jarek\Desktop\PJATK\APBD\prace domowe\zadanie1\APBD1\bin\Debug\net8.0\APBD1.runtimeconfig.json
+C:\Users\Jarek\Desktop\PJATK\APBD\prace domowe\zadanie1\APBD1\bin\Debug\net8.0\APBD1.dll
+C:\Users\Jarek\Desktop\PJATK\APBD\prace domowe\zadanie1\APBD1\bin\Debug\net8.0\APBD1.pdb
+C:\Users\Jarek\Desktop\PJATK\APBD\prace domowe\zadanie1\APBD1\obj\Debug\net8.0\APBD1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarek\Desktop\PJATK\APBD\prace domowe\zadanie1\APBD1\obj\Debug\net8.0\APBD1.AssemblyInfoInputs.cache
+C:\Users\Jarek\Desktop\PJATK\APBD\prace domowe\zadanie1\APBD1\obj\Debug\net8.0\APBD1.AssemblyInfo.cs
+C:\Users\Jarek\Desktop\PJATK\APBD\prace domowe\zadanie1\APBD1\obj\Debug\net8.0\APBD1.csproj.CoreCompileInputs.cache
+C:\Users\Jarek\Desktop\PJATK\APBD\prace domowe\zadanie1\APBD1\obj\Debug\net8.0\APBD1.sourcelink.json
+C:\Users\Jarek\Desktop\PJATK\APBD\prace domowe\zadanie1\APBD1\obj\Debug\net8.0\APBD1.dll
+C:\Users\Jarek\Desktop\PJATK\APBD\prace domowe\zadanie1\APBD1\obj\Debug\net8.0\refint\APBD1.dll
+C:\Users\Jarek\Desktop\PJATK\APBD\prace domowe\zadanie1\APBD1\obj\Debug\net8.0\APBD1.pdb
+C:\Users\Jarek\Desktop\PJATK\APBD\prace domowe\zadanie1\APBD1\obj\Debug\net8.0\APBD1.genruntimeconfig.cache
+C:\Users\Jarek\Desktop\PJATK\APBD\prace domowe\zadanie1\APBD1\obj\Debug\net8.0\ref\APBD1.dll
